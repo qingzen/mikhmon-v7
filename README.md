@@ -1,6 +1,6 @@
-# MIKHMON V3
+# MIKHMON V3 and V4
 
-Mikhmon v3 Modified for support RouterOS 7
+Mikhmon Modified
 
 ## PPPoE support
 ![image description](https://raw.githubusercontent.com/qingzen/file-hrash/refs/heads/main/Screenshot%202025-08-30%20005529.png)
